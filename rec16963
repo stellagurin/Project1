@@ -1,0 +1,11 @@
+Project1:
+total 32
+-rw-r--r--. 1 myid  505 Feb  9 15:25 makefile
+-rw-r--r--. 1 myid  150 Feb  9 15:30 README.md
+-rw-r--r--. 1 myid    0 Feb  9 16:06 rec16963
+-rw-r--r--. 1 myid  603 Feb  9 13:51 Student.cpp
+-rw-r--r--. 1 myid  720 Feb  9 12:50 Student.h
+-rw-r--r--. 1 myid 3482 Feb  8 19:03 UnsortedList.cpp
+-rw-r--r--. 1 myid 6451 Feb  9 14:41 UnsortedListDriver.cpp
+-rw-r--r--. 1 myid 2093 Feb  8 17:44 UnsortedList.h
+/home/myid/seg19809/Project1:/home/myid/csci-2720a
