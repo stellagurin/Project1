@@ -6,8 +6,6 @@ using namespace std;
 #include <iostream>
 #include "Student.h"
 
-
-
 Student::Student(){
     studentID = 0;
     studentName = "";
